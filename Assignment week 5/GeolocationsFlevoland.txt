@@ -1,0 +1,7 @@
+The csv file with geolocations contains the averages of Latitude and Longtitude of the postalcodes.
+
+In general the postalcode in the Netherlands are 4numbers and two letters
+eg. 1328DH or 1328 EJ
+These letters define the location to streetlevel.
+
+Taking the average means locating the 'middle' of the postalcode region 
