@@ -1,0 +1,9 @@
+1.    https://postcode.site/nl 
+2.    https://opendata.cbs.nl/statline/#/CBS/nl/ 
+3.    https://www.clearlyandsimply.com/clearly_and_simply/2010/10/geocoding-databases-for-europe.html
+4.    https://opendata.cbs.nl/statline/#/CBS/nl/dataset/84286NED/table?ts=1566099018606
+5.    https://allecijfers.nl/gemeente-overzicht/almere/   (En ook voor de andere gemeenten)
+6.    https://www.geonames.org/datasources/
+7.    https://www.geopostcodes.com/Almere
+8.    https://www.geopostcodes.com/Flevoland
+
